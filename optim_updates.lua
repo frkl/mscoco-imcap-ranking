@@ -1,3 +1,5 @@
+--Author: Andrej Kaparthy
+--https://github.com/karpathy/neuraltalk2/tree/master/misc
 
 -- optim, simple as it should be, written from scratch. That's how I roll
 
